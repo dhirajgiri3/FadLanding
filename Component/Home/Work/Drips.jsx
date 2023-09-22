@@ -1,5 +1,5 @@
 import React from "react";
-import img2 from "@/Assets/Images/gfgg.png";
+// import img2 from "@/Assets/Images/gfgg.png";
 import Image from "next/image";
 import styled from "styled-components";
 import { motion } from "framer-motion";
@@ -201,7 +201,7 @@ function Drips() {
           whileInView="visible"
           className="middle"
         >
-          <Image src={img2} alt="How Fad Works" />
+          <img src="https://res.cloudinary.com/divbobkmd/image/upload/v1695375278/web-design1_wmciwu.png" alt="How Fad Works" />
         </motion.div>
         <motion.div
           variants={variants}

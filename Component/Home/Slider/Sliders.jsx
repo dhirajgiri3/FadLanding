@@ -5,7 +5,7 @@ import styled from "styled-components";
 import { gsap } from "gsap";
 import { Flip } from "gsap/Flip";
 import WideButton from "@/Component/Animation/Buttons/WideButton";
-import chucha from "@/Assets/Images/chuche1.png";
+import chucha from "@/Assets/Images/chuche2.png";
 import lauda1 from "@/Assets/Images/lauda2.png";
 import lauda2 from "@/Assets/Images/lauda4.png";
 import Image from "next/image";
