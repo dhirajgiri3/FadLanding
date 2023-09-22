@@ -5,15 +5,15 @@ import styled from "styled-components";
 import { gsap } from "gsap";
 import { Flip } from "gsap/Flip";
 import WideButton from "@/Component/Animation/Buttons/WideButton";
-import img1 from "@/Assets/Images/chuche1.png";
-import img2 from "@/Assets/Images/lauda2.png";
-import img3 from "@/Assets/Images/lauda4.png";
+import chucha from "@/Assets/Images/chuche1.png";
+import lauda1 from "@/Assets/Images/lauda2.png";
+import lauda2 from "@/Assets/Images/lauda4.png";
 import Image from "next/image";
 import { motion } from "framer-motion";
 
 gsap.registerPlugin(Flip);
 
-const images = [img3, img2, img1];
+const images = [chucha, lauda1, lauda2];
 
 const text = [
   "Unlock coupon and more by doing fashion",
