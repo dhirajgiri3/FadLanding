@@ -206,7 +206,7 @@ function Hero2() {
           muted
           playsInline
           ref={videoRef}
-          src="https://res.cloudinary.com/divbobkmd/video/upload/v1690745994/fad-reel-2_AdobeExpress_simbrc.mp4"
+          src="https://res.cloudinary.com/divbobkmd/video/upload/v1695410099/reel7001_yzo5wd.mp4"
           className="bgvideo"
         />
       </div>
