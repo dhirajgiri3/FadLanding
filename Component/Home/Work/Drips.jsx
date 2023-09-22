@@ -201,7 +201,7 @@ function Drips() {
           whileInView="visible"
           className="middle"
         >
-          <img src="https://res.cloudinary.com/divbobkmd/image/upload/v1695375278/web-design1_wmciwu.png" alt="How Fad Works" />
+          <img src="https://res.cloudinary.com/divbobkmd/image/upload/v1695410681/gfgg_q0jwwt.png" alt="How Fad Works" />
         </motion.div>
         <motion.div
           variants={variants}
